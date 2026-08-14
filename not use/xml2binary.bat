@@ -1,0 +1,1 @@
+FOR  %%I  IN (*.xml) DO TXMLConvert.exe \tbin %%I "%%~nI.binary"

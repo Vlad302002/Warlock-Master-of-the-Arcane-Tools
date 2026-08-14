@@ -1,0 +1,13 @@
+WarlockTools_GUI.exe — одна оболочка вокруг уже лежащих тут утилит.
+
+Не декомпилировали ничего. Кнопки зовут:
+  Squeezer.exe        .pack ↔ папка
+  XRconvert_Final.exe .xr ↔ .xml
+  TXMLConvert.exe     .binary ↔ .xml
+
+Положите exe в эту же папку (рядом с тремя программами).
+Киньте файл или папку → действие угадается → Выполнить.
+«Все паки игры» распакует d100/d110/… в _extract\  (~1.3 ГБ).
+
+Исходник: gui_src\   сборка: gui_src\build.ps1
+Bats (Decompile / Compile / xr2xml …) больше не нужны, можно не трогать.

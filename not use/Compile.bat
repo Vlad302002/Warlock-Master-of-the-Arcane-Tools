@@ -1,0 +1,1 @@
+ Squeezer.exe /d ./d179+ d179.pack .wav.ogg.ogm.mp3.avi.dds.png.tga.jpg.fev.fsb .wav.ogg.ogm.mp3.avi.dds.png.tga.jpg.fev.fsb 5

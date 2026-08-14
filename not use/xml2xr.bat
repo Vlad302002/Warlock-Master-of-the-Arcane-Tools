@@ -1,0 +1,1 @@
+FOR %%i IN (*.xml) DO XRconvert_Final.exe %%i
